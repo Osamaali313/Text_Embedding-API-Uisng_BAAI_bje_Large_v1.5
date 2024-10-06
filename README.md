@@ -1,0 +1,1 @@
+# Text_Embedding-API-Uisng_BAAI_bje_Large_v1.5
